@@ -1,0 +1,475 @@
+2017-09-25 15:09:23,064 INFO c.k.i.r.DataReader [main] reader data from file
+2017-09-25 15:09:23,132 INFO c.k.i.p.StringParser [main] parsing strings
+2017-09-25 15:09:23,389 INFO c.k.i.p.StringValidator [main] validating string John Reese 1000.00 USA New-York street 7 5 B1 JUNIOR html,css,javascript
+2017-09-25 15:09:23,392 INFO c.k.i.p.StringValidator [main] validating string John Lock 1300.00 USA Boston Street 1 2 B1 MIDDLE java,scala,sql
+2017-09-25 15:09:23,400 INFO c.k.i.p.StringValidator [main] validating string 
+2017-09-25 15:09:23,463 INFO c.k.i.c.EmployeeCreator [main] creating developer
+2017-09-25 15:09:23,489 INFO c.k.i.c.EmployeeCreator [main] creating address
+2017-09-25 15:09:23,513 INFO c.k.i.c.EmployeeCreator [main] creating address
+2017-09-25 15:09:23,514 INFO c.k.i.a.EmployeeAction [main] calculate the cost of the development team
+2017-09-25 15:10:21,535 INFO c.k.i.r.DataReader [main] reader data from file
+2017-09-25 15:10:21,550 INFO c.k.i.p.StringParser [main] parsing strings
+2017-09-25 15:10:21,643 INFO c.k.i.p.StringValidator [main] validating string John Reese 1000.00 USA New-York street 7 5 B1 JUNIOR html,css,javascript
+2017-09-25 15:10:21,645 INFO c.k.i.p.StringValidator [main] validating string John Lock 1300.00 USA Boston Street 1 2 B1 MIDDLE java,scala,sql
+2017-09-25 15:10:21,646 INFO c.k.i.p.StringValidator [main] validating string 
+2017-09-25 15:10:21,649 INFO c.k.i.c.EmployeeCreator [main] creating developer
+2017-09-25 15:10:21,653 INFO c.k.i.c.EmployeeCreator [main] creating address
+2017-09-25 15:10:21,654 INFO c.k.i.c.EmployeeCreator [main] creating address
+2017-09-25 15:10:21,655 INFO c.k.i.a.EmployeeAction [main] calculate the cost of the development team
+2017-09-25 15:10:53,772 INFO c.k.i.r.DataReader [main] reader data from file
+2017-09-25 15:10:53,786 INFO c.k.i.p.StringParser [main] parsing strings
+2017-09-25 15:10:53,873 INFO c.k.i.p.StringValidator [main] validating string John Reese 1000.00 USA New-York street 7 5 B1 JUNIOR html,css,javascript
+2017-09-25 15:10:53,876 INFO c.k.i.p.StringValidator [main] validating string John Lock 1300.00 USA Boston Street 1 2 B1 MIDDLE java,scala,sql
+2017-09-25 15:10:53,877 INFO c.k.i.p.StringValidator [main] validating string 
+2017-09-25 15:10:53,881 INFO c.k.i.c.EmployeeCreator [main] creating developer
+2017-09-25 15:10:53,885 INFO c.k.i.c.EmployeeCreator [main] creating address
+2017-09-25 15:10:53,887 INFO c.k.i.c.EmployeeCreator [main] creating address
+2017-09-25 15:10:53,888 INFO c.k.i.a.EmployeeAction [main] calculate the cost of the development team
+2017-09-25 15:11:22,540 INFO c.k.i.r.DataReader [main] reader data from file
+2017-09-25 15:11:22,551 INFO c.k.i.p.StringParser [main] parsing strings
+2017-09-25 15:11:22,641 INFO c.k.i.p.StringValidator [main] validating string John Reese 1000.00 USA New-York street 7 5 B1 JUNIOR html,css,javascript
+2017-09-25 15:11:22,645 INFO c.k.i.p.StringValidator [main] validating string John Lock 1300.00 USA Boston Street 1 2 B1 MIDDLE java,scala,sql
+2017-09-25 15:11:22,645 INFO c.k.i.p.StringValidator [main] validating string 
+2017-09-25 15:11:22,650 INFO c.k.i.c.EmployeeCreator [main] creating developer
+2017-09-25 15:11:22,654 INFO c.k.i.c.EmployeeCreator [main] creating address
+2017-09-25 15:11:22,656 INFO c.k.i.c.EmployeeCreator [main] creating address
+2017-09-25 15:11:22,657 INFO c.k.i.a.EmployeeAction [main] calculate the cost of the development team
+2017-09-25 15:12:54,693 INFO c.k.i.r.DataReader [main] reader data from file
+2017-09-25 15:12:54,706 INFO c.k.i.p.StringParser [main] parsing strings
+2017-09-25 15:12:54,800 INFO c.k.i.p.StringValidator [main] validating string John Reese 1000.00 USA New-York street 7 5 B1 JUNIOR html,css,javascript
+2017-09-25 15:12:54,802 INFO c.k.i.p.StringValidator [main] validating string John Lock 1300.00 USA Boston Street 1 2 B1 MIDDLE java,scala,sql
+2017-09-25 15:12:54,803 INFO c.k.i.p.StringValidator [main] validating string 
+2017-09-25 15:12:54,806 INFO c.k.i.c.EmployeeCreator [main] creating developer
+2017-09-25 15:12:54,810 INFO c.k.i.c.EmployeeCreator [main] creating address
+2017-09-25 15:12:54,811 INFO c.k.i.c.EmployeeCreator [main] creating address
+2017-09-25 15:12:54,812 INFO c.k.i.a.EmployeeAction [main] calculate the cost of the development team
+2017-09-25 15:13:22,450 INFO c.k.i.r.DataReader [main] reader data from file
+2017-09-25 15:13:22,462 INFO c.k.i.p.StringParser [main] parsing strings
+2017-09-25 15:13:22,557 INFO c.k.i.p.StringValidator [main] validating string John Reese 1000.00 USA New-York street 7 5 B1 JUNIOR html,css,javascript
+2017-09-25 15:13:22,560 INFO c.k.i.p.StringValidator [main] validating string John Lock 1300.00 USA Boston Street 1 2 B1 MIDDLE java,scala,sql
+2017-09-25 15:13:22,561 INFO c.k.i.p.StringValidator [main] validating string 
+2017-09-25 15:13:22,565 INFO c.k.i.c.EmployeeCreator [main] creating developer
+2017-09-25 15:13:22,570 INFO c.k.i.c.EmployeeCreator [main] creating address
+2017-09-25 15:13:22,571 INFO c.k.i.c.EmployeeCreator [main] creating address
+2017-09-25 15:13:22,573 INFO c.k.i.a.EmployeeAction [main] calculate the cost of the development team
+2017-09-25 15:13:36,609 INFO c.k.i.r.DataReader [main] reader data from file
+2017-09-25 15:13:36,621 INFO c.k.i.p.StringParser [main] parsing strings
+2017-09-25 15:13:36,711 INFO c.k.i.p.StringValidator [main] validating string John Reese 1000.00 USA New-York street 7 5 B1 JUNIOR html,css,javascript
+2017-09-25 15:13:36,715 INFO c.k.i.p.StringValidator [main] validating string John Lock 1300.00 USA Boston Street 1 2 B1 MIDDLE java,scala,sql
+2017-09-25 15:13:36,715 INFO c.k.i.p.StringValidator [main] validating string 
+2017-09-25 15:13:36,720 INFO c.k.i.c.EmployeeCreator [main] creating developer
+2017-09-25 15:13:36,724 INFO c.k.i.c.EmployeeCreator [main] creating address
+2017-09-25 15:13:36,725 INFO c.k.i.c.EmployeeCreator [main] creating address
+2017-09-25 15:13:36,727 INFO c.k.i.a.EmployeeAction [main] calculate the cost of the development team
+2017-09-25 15:13:59,593 INFO c.k.i.r.DataReader [main] reader data from file
+2017-09-25 15:13:59,609 INFO c.k.i.p.StringParser [main] parsing strings
+2017-09-25 15:13:59,708 INFO c.k.i.p.StringValidator [main] validating string John Reese 1000.00 USA New-York street 7 5 B1 JUNIOR html,css,javascript
+2017-09-25 15:13:59,710 INFO c.k.i.p.StringValidator [main] validating string John Lock 1300.00 USA Boston Street 1 2 B1 MIDDLE java,scala,sql
+2017-09-25 15:13:59,711 INFO c.k.i.p.StringValidator [main] validating string Jack Shepard 1200.00 USA Los-Angeles Rodeo-Drive 5 22 C1 MIDDLE javascript,react,html,css
+2017-09-25 15:13:59,712 INFO c.k.i.p.StringValidator [main] validating string Dexter Morgan 800.00 USA Miami Street 5 777 A1 JUNIOR java,sql
+2017-09-25 15:13:59,712 INFO c.k.i.p.StringValidator [main] validating string Harold Finch 3000.00 USA New-York street 99 109 C2 TEAM_LEAD java,sql,javascript,react,angular,html,css
+2017-09-25 15:13:59,713 INFO c.k.i.p.StringValidator [main] validating string Sameen Shaw 700.00 USA New-York street 8 55 B2 JUNIOR html,css,javascript
+2017-09-25 15:13:59,717 INFO c.k.i.c.EmployeeCreator [main] creating developer
+2017-09-25 15:13:59,721 INFO c.k.i.c.EmployeeCreator [main] creating address
+2017-09-25 15:13:59,722 INFO c.k.i.c.EmployeeCreator [main] creating address
+2017-09-25 15:13:59,722 INFO c.k.i.c.EmployeeCreator [main] creating address
+2017-09-25 15:13:59,722 INFO c.k.i.c.EmployeeCreator [main] creating address
+2017-09-25 15:13:59,722 INFO c.k.i.c.EmployeeCreator [main] creating address
+2017-09-25 15:13:59,723 INFO c.k.i.c.EmployeeCreator [main] creating address
+2017-09-25 15:13:59,724 INFO c.k.i.a.EmployeeAction [main] calculate the cost of the development team
+2017-09-25 15:14:23,522 INFO c.k.i.r.DataReader [main] reader data from file
+2017-09-25 15:14:23,538 INFO c.k.i.p.StringParser [main] parsing strings
+2017-09-25 15:14:23,636 INFO c.k.i.p.StringValidator [main] validating string John Reese 1000.00 USA New-York street 7 5 B1 JUNIOR html,css,javascript
+2017-09-25 15:14:23,639 INFO c.k.i.p.StringValidator [main] validating string John Lock 1300.00 USA Boston Street 1 2 B1 MIDDLE java,scala,sql
+2017-09-25 15:14:23,640 INFO c.k.i.p.StringValidator [main] validating string Jack Shepard 1200.00 USA Los-Angeles Rodeo-Drive 5 22 C1 MIDDLE javascript,react,html,css
+2017-09-25 15:14:23,641 INFO c.k.i.p.StringValidator [main] validating string Dexter Morgan 800.00 USA Miami Street 5 777 A1 JUNIOR java,sql
+2017-09-25 15:14:23,642 INFO c.k.i.p.StringValidator [main] validating string Harold Finch 3000.00 USA New-York street 99 109 C2 TEAM_LEAD java,sql,javascript,react,angular,html,css
+2017-09-25 15:14:23,643 INFO c.k.i.p.StringValidator [main] validating string Sameen Shaw 700.00 USA New-York street 8 55 B2 JUNIOR html,css,javascript
+2017-09-25 15:14:23,647 INFO c.k.i.c.EmployeeCreator [main] creating developer
+2017-09-25 15:14:23,652 INFO c.k.i.c.EmployeeCreator [main] creating address
+2017-09-25 15:14:23,654 INFO c.k.i.c.EmployeeCreator [main] creating address
+2017-09-25 15:14:23,654 INFO c.k.i.c.EmployeeCreator [main] creating address
+2017-09-25 15:14:23,654 INFO c.k.i.c.EmployeeCreator [main] creating address
+2017-09-25 15:14:23,655 INFO c.k.i.c.EmployeeCreator [main] creating address
+2017-09-25 15:14:23,655 INFO c.k.i.c.EmployeeCreator [main] creating address
+2017-09-25 15:14:23,656 INFO c.k.i.a.EmployeeAction [main] calculate the cost of the development team
+2017-09-25 15:14:42,980 INFO c.k.i.r.DataReader [main] reader data from file
+2017-09-25 15:14:42,995 INFO c.k.i.p.StringParser [main] parsing strings
+2017-09-25 15:14:43,084 INFO c.k.i.p.StringValidator [main] validating string John Reese 1000.00 USA New-York street 7 5 B1 JUNIOR html,css,javascript
+2017-09-25 15:14:43,087 INFO c.k.i.p.StringValidator [main] validating string John Lock 1300.00 USA Boston Street 1 2 B1 MIDDLE java,scala,sql
+2017-09-25 15:14:43,088 INFO c.k.i.p.StringValidator [main] validating string Jack Shepard 1200.00 USA Los-Angeles Rodeo-Drive 5 22 C1 MIDDLE javascript,react,html,css
+2017-09-25 15:14:43,088 INFO c.k.i.p.StringValidator [main] validating string Dexter Morgan 800.00 USA Miami Street 5 777 A1 JUNIOR java,sql
+2017-09-25 15:14:43,089 INFO c.k.i.p.StringValidator [main] validating string Harold Finch 3000.00 USA New-York street 99 109 C2 TEAM_LEAD java,sql,javascript,react,angular,html,css
+2017-09-25 15:14:43,090 INFO c.k.i.p.StringValidator [main] validating string Sameen Shaw 700.00 USA New-York street 8 55 B2 JUNIOR html,css,javascript
+2017-09-25 15:14:43,090 INFO c.k.i.p.StringValidator [main] validating string John Reese 1000.00 USA New-York street 7 5 B1 JUNIOR html,css,javascript
+2017-09-25 15:14:43,091 INFO c.k.i.p.StringValidator [main] validating string John Lock 1300.00 USA Boston Street 1 2 B1 MIDDLE java,scala,sql
+2017-09-25 15:14:43,092 INFO c.k.i.p.StringValidator [main] validating string Jack Shepard 1200.00 USA Los-Angeles Rodeo-Drive 5 22 C1 MIDDLE javascript,react,html,css
+2017-09-25 15:14:43,092 INFO c.k.i.p.StringValidator [main] validating string Dexter Morgan 800.00 USA Miami Street 5 777 A1 JUNIOR java,sql
+2017-09-25 15:14:43,093 INFO c.k.i.p.StringValidator [main] validating string Harold Finch 3000.00 USA New-York street 99 109 C2 TEAM_LEAD java,sql,javascript,react,angular,html,css
+2017-09-25 15:14:43,093 INFO c.k.i.p.StringValidator [main] validating string Sameen Shaw 700.00 USA New-York street 8 55 B2 JUNIOR html,css,javascript
+2017-09-25 15:14:43,097 INFO c.k.i.c.EmployeeCreator [main] creating developer
+2017-09-25 15:14:43,101 INFO c.k.i.c.EmployeeCreator [main] creating address
+2017-09-25 15:14:43,102 INFO c.k.i.c.EmployeeCreator [main] creating address
+2017-09-25 15:14:43,102 INFO c.k.i.c.EmployeeCreator [main] creating address
+2017-09-25 15:14:43,102 INFO c.k.i.c.EmployeeCreator [main] creating address
+2017-09-25 15:14:43,102 INFO c.k.i.c.EmployeeCreator [main] creating address
+2017-09-25 15:14:43,102 INFO c.k.i.c.EmployeeCreator [main] creating address
+2017-09-25 15:14:43,103 INFO c.k.i.c.EmployeeCreator [main] creating address
+2017-09-25 15:14:43,103 INFO c.k.i.c.EmployeeCreator [main] creating address
+2017-09-25 15:14:43,103 INFO c.k.i.c.EmployeeCreator [main] creating address
+2017-09-25 15:14:43,103 INFO c.k.i.c.EmployeeCreator [main] creating address
+2017-09-25 15:14:43,103 INFO c.k.i.c.EmployeeCreator [main] creating address
+2017-09-25 15:14:43,104 INFO c.k.i.c.EmployeeCreator [main] creating address
+2017-09-25 15:14:43,105 INFO c.k.i.a.EmployeeAction [main] calculate the cost of the development team
+2017-09-25 15:14:55,335 INFO c.k.i.r.DataReader [main] reader data from file
+2017-09-25 15:14:55,346 INFO c.k.i.p.StringParser [main] parsing strings
+2017-09-25 15:14:55,445 INFO c.k.i.p.StringValidator [main] validating string John Reese 1000.00 USA New-York street 7 5 B1 JUNIOR html,css,javascript
+2017-09-25 15:14:55,452 INFO c.k.i.p.StringValidator [main] validating string John Lock 1300.00 USA Boston Street 1 2 B1 MIDDLE java,scala,sql
+2017-09-25 15:14:55,453 INFO c.k.i.p.StringValidator [main] validating string Jack Shepard 1200.00 USA Los-Angeles Rodeo-Drive 5 22 C1 MIDDLE javascript,react,html,css
+2017-09-25 15:14:55,454 INFO c.k.i.p.StringValidator [main] validating string Dexter Morgan 800.00 USA Miami Street 5 777 A1 JUNIOR java,sql
+2017-09-25 15:14:55,455 INFO c.k.i.p.StringValidator [main] validating string Harold Finch 3000.00 USA New-York street 99 109 C2 TEAM_LEAD java,sql,javascript,react,angular,html,css
+2017-09-25 15:14:55,456 INFO c.k.i.p.StringValidator [main] validating string Sameen Shaw 700.00 USA New-York street 8 55 B2 JUNIOR html,css,javascript
+2017-09-25 15:14:55,457 INFO c.k.i.p.StringValidator [main] validating string John Reese 1000.00 USA New-York street 7 5 B1 JUNIOR html,css,javascript
+2017-09-25 15:14:55,458 INFO c.k.i.p.StringValidator [main] validating string John Lock 1300.00 USA Boston Street 1 2 B1 MIDDLE java,scala,sql
+2017-09-25 15:14:55,459 INFO c.k.i.p.StringValidator [main] validating string Jack Shepard 1200.00 USA Los-Angeles Rodeo-Drive 5 22 C1 MIDDLE javascript,react,html,css
+2017-09-25 15:14:55,460 INFO c.k.i.p.StringValidator [main] validating string Dexter Morgan 800.00 USA Miami Street 5 777 A1 JUNIOR java,sql
+2017-09-25 15:14:55,460 INFO c.k.i.p.StringValidator [main] validating string Harold Finch 3000.00 USA New-York street 99 109 C2 TEAM_LEAD java,sql,javascript,react,angular,html,css
+2017-09-25 15:14:55,461 INFO c.k.i.p.StringValidator [main] validating string Sameen Shaw 700.00 USA New-York street 8 55 B2 JUNIOR html,css,javascript
+2017-09-25 15:14:55,466 INFO c.k.i.c.EmployeeCreator [main] creating developer
+2017-09-25 15:14:55,472 INFO c.k.i.c.EmployeeCreator [main] creating address
+2017-09-25 15:14:55,474 INFO c.k.i.c.EmployeeCreator [main] creating address
+2017-09-25 15:14:55,475 INFO c.k.i.c.EmployeeCreator [main] creating address
+2017-09-25 15:14:55,475 INFO c.k.i.c.EmployeeCreator [main] creating address
+2017-09-25 15:14:55,476 INFO c.k.i.c.EmployeeCreator [main] creating address
+2017-09-25 15:14:55,476 INFO c.k.i.c.EmployeeCreator [main] creating address
+2017-09-25 15:14:55,476 INFO c.k.i.c.EmployeeCreator [main] creating address
+2017-09-25 15:14:55,477 INFO c.k.i.c.EmployeeCreator [main] creating address
+2017-09-25 15:14:55,477 INFO c.k.i.c.EmployeeCreator [main] creating address
+2017-09-25 15:14:55,477 INFO c.k.i.c.EmployeeCreator [main] creating address
+2017-09-25 15:14:55,477 INFO c.k.i.c.EmployeeCreator [main] creating address
+2017-09-25 15:14:55,477 INFO c.k.i.c.EmployeeCreator [main] creating address
+2017-09-25 15:14:55,479 INFO c.k.i.a.EmployeeAction [main] calculate the cost of the development team
+2017-09-25 15:15:07,616 INFO c.k.i.r.DataReader [main] reader data from file
+2017-09-25 15:15:07,628 INFO c.k.i.p.StringParser [main] parsing strings
+2017-09-25 15:15:07,727 INFO c.k.i.p.StringValidator [main] validating string John Reese 1000.00 USA New-York street 7 5 B1 JUNIOR html,css,javascript
+2017-09-25 15:15:07,729 INFO c.k.i.p.StringValidator [main] validating string John Lock 1300.00 USA Boston Street 1 2 B1 MIDDLE java,scala,sql
+2017-09-25 15:15:07,730 INFO c.k.i.p.StringValidator [main] validating string Jack Shepard 1200.00 USA Los-Angeles Rodeo-Drive 5 22 C1 MIDDLE javascript,react,html,css
+2017-09-25 15:15:07,731 INFO c.k.i.p.StringValidator [main] validating string Dexter Morgan 800.00 USA Miami Street 5 777 A1 JUNIOR java,sql
+2017-09-25 15:15:07,731 INFO c.k.i.p.StringValidator [main] validating string Harold Finch 3000.00 USA New-York street 99 109 C2 TEAM_LEAD java,sql,javascript,react,angular,html,css
+2017-09-25 15:15:07,732 INFO c.k.i.p.StringValidator [main] validating string Sameen Shaw 700.00 USA New-York street 8 55 B2 JUNIOR html,css,javascript
+2017-09-25 15:15:07,733 INFO c.k.i.p.StringValidator [main] validating string John Reese 1000.00 USA New-York street 7 5 B1 JUNIOR html,css,javascript
+2017-09-25 15:15:07,733 INFO c.k.i.p.StringValidator [main] validating string John Lock 1300.00 USA Boston Street 1 2 B1 MIDDLE java,scala,sql
+2017-09-25 15:15:07,734 INFO c.k.i.p.StringValidator [main] validating string Jack Shepard 1200.00 USA Los-Angeles Rodeo-Drive 5 22 C1 MIDDLE javascript,react,html,css
+2017-09-25 15:15:07,735 INFO c.k.i.p.StringValidator [main] validating string Dexter Morgan 800.00 USA Miami Street 5 777 A1 JUNIOR java,sql
+2017-09-25 15:15:07,735 INFO c.k.i.p.StringValidator [main] validating string Harold Finch 3000.00 USA New-York street 99 109 C2 TEAM_LEAD java,sql,javascript,react,angular,html,css
+2017-09-25 15:15:07,736 INFO c.k.i.p.StringValidator [main] validating string Sameen Shaw 700.00 USA New-York street 8 55 B2 JUNIOR html,css,javascript
+2017-09-25 15:15:07,740 INFO c.k.i.c.EmployeeCreator [main] creating developer
+2017-09-25 15:15:07,744 INFO c.k.i.c.EmployeeCreator [main] creating address
+2017-09-25 15:15:07,745 INFO c.k.i.c.EmployeeCreator [main] creating address
+2017-09-25 15:15:07,745 INFO c.k.i.c.EmployeeCreator [main] creating address
+2017-09-25 15:15:07,745 INFO c.k.i.c.EmployeeCreator [main] creating address
+2017-09-25 15:15:07,745 INFO c.k.i.c.EmployeeCreator [main] creating address
+2017-09-25 15:15:07,746 INFO c.k.i.c.EmployeeCreator [main] creating address
+2017-09-25 15:15:07,746 INFO c.k.i.c.EmployeeCreator [main] creating address
+2017-09-25 15:15:07,746 INFO c.k.i.c.EmployeeCreator [main] creating address
+2017-09-25 15:15:07,746 INFO c.k.i.c.EmployeeCreator [main] creating address
+2017-09-25 15:15:07,746 INFO c.k.i.c.EmployeeCreator [main] creating address
+2017-09-25 15:15:07,746 INFO c.k.i.c.EmployeeCreator [main] creating address
+2017-09-25 15:15:07,746 INFO c.k.i.c.EmployeeCreator [main] creating address
+2017-09-25 15:15:07,747 INFO c.k.i.a.EmployeeAction [main] calculate the cost of the development team
+2017-09-25 15:15:12,449 INFO c.k.i.r.DataReader [main] reader data from file
+2017-09-25 15:15:12,461 INFO c.k.i.p.StringParser [main] parsing strings
+2017-09-25 15:15:12,551 INFO c.k.i.p.StringValidator [main] validating string John Reese 1000.00 USA New-York street 7 5 B1 JUNIOR html,css,javascript
+2017-09-25 15:15:12,554 INFO c.k.i.p.StringValidator [main] validating string John Lock 1300.00 USA Boston Street 1 2 B1 MIDDLE java,scala,sql
+2017-09-25 15:15:12,555 INFO c.k.i.p.StringValidator [main] validating string Jack Shepard 1200.00 USA Los-Angeles Rodeo-Drive 5 22 C1 MIDDLE javascript,react,html,css
+2017-09-25 15:15:12,555 INFO c.k.i.p.StringValidator [main] validating string Dexter Morgan 800.00 USA Miami Street 5 777 A1 JUNIOR java,sql
+2017-09-25 15:15:12,556 INFO c.k.i.p.StringValidator [main] validating string Harold Finch 3000.00 USA New-York street 99 109 C2 TEAM_LEAD java,sql,javascript,react,angular,html,css
+2017-09-25 15:15:12,557 INFO c.k.i.p.StringValidator [main] validating string Sameen Shaw 700.00 USA New-York street 8 55 B2 JUNIOR html,css,javascript
+2017-09-25 15:15:12,558 INFO c.k.i.p.StringValidator [main] validating string John Reese 1000.00 USA New-York street 7 5 B1 JUNIOR html,css,javascript
+2017-09-25 15:15:12,558 INFO c.k.i.p.StringValidator [main] validating string John Lock 1300.00 USA Boston Street 1 2 B1 MIDDLE java,scala,sql
+2017-09-25 15:15:12,559 INFO c.k.i.p.StringValidator [main] validating string Jack Shepard 1200.00 USA Los-Angeles Rodeo-Drive 5 22 C1 MIDDLE javascript,react,html,css
+2017-09-25 15:15:12,560 INFO c.k.i.p.StringValidator [main] validating string Dexter Morgan 800.00 USA Miami Street 5 777 A1 JUNIOR java,sql
+2017-09-25 15:15:12,561 INFO c.k.i.p.StringValidator [main] validating string Harold Finch 3000.00 USA New-York street 99 109 C2 TEAM_LEAD java,sql,javascript,react,angular,html,css
+2017-09-25 15:15:12,562 INFO c.k.i.p.StringValidator [main] validating string Sameen Shaw 700.00 USA New-York street 8 55 B2 JUNIOR html,css,javascript
+2017-09-25 15:15:12,568 INFO c.k.i.c.EmployeeCreator [main] creating developer
+2017-09-25 15:15:12,572 INFO c.k.i.c.EmployeeCreator [main] creating address
+2017-09-25 15:15:12,573 INFO c.k.i.c.EmployeeCreator [main] creating address
+2017-09-25 15:15:12,573 INFO c.k.i.c.EmployeeCreator [main] creating address
+2017-09-25 15:15:12,573 INFO c.k.i.c.EmployeeCreator [main] creating address
+2017-09-25 15:15:12,573 INFO c.k.i.c.EmployeeCreator [main] creating address
+2017-09-25 15:15:12,573 INFO c.k.i.c.EmployeeCreator [main] creating address
+2017-09-25 15:15:12,574 INFO c.k.i.c.EmployeeCreator [main] creating address
+2017-09-25 15:15:12,574 INFO c.k.i.c.EmployeeCreator [main] creating address
+2017-09-25 15:15:12,574 INFO c.k.i.c.EmployeeCreator [main] creating address
+2017-09-25 15:15:12,574 INFO c.k.i.c.EmployeeCreator [main] creating address
+2017-09-25 15:15:12,574 INFO c.k.i.c.EmployeeCreator [main] creating address
+2017-09-25 15:15:12,575 INFO c.k.i.c.EmployeeCreator [main] creating address
+2017-09-25 15:15:12,576 INFO c.k.i.a.EmployeeAction [main] calculate the cost of the development team
+2017-09-25 15:15:17,657 INFO c.k.i.r.DataReader [main] reader data from file
+2017-09-25 15:15:17,673 INFO c.k.i.p.StringParser [main] parsing strings
+2017-09-25 15:15:17,771 INFO c.k.i.p.StringValidator [main] validating string John Reese 1000.00 USA New-York street 7 5 B1 JUNIOR html,css,javascript
+2017-09-25 15:15:17,774 INFO c.k.i.p.StringValidator [main] validating string John Lock 1300.00 USA Boston Street 1 2 B1 MIDDLE java,scala,sql
+2017-09-25 15:15:17,775 INFO c.k.i.p.StringValidator [main] validating string Jack Shepard 1200.00 USA Los-Angeles Rodeo-Drive 5 22 C1 MIDDLE javascript,react,html,css
+2017-09-25 15:15:17,775 INFO c.k.i.p.StringValidator [main] validating string Dexter Morgan 800.00 USA Miami Street 5 777 A1 JUNIOR java,sql
+2017-09-25 15:15:17,776 INFO c.k.i.p.StringValidator [main] validating string Harold Finch 3000.00 USA New-York street 99 109 C2 TEAM_LEAD java,sql,javascript,react,angular,html,css
+2017-09-25 15:15:17,777 INFO c.k.i.p.StringValidator [main] validating string Sameen Shaw 700.00 USA New-York street 8 55 B2 JUNIOR html,css,javascript
+2017-09-25 15:15:17,777 INFO c.k.i.p.StringValidator [main] validating string John Reese 1000.00 USA New-York street 7 5 B1 JUNIOR html,css,javascript
+2017-09-25 15:15:17,778 INFO c.k.i.p.StringValidator [main] validating string John Lock 1300.00 USA Boston Street 1 2 B1 MIDDLE java,scala,sql
+2017-09-25 15:15:17,778 INFO c.k.i.p.StringValidator [main] validating string Jack Shepard 1200.00 USA Los-Angeles Rodeo-Drive 5 22 C1 MIDDLE javascript,react,html,css
+2017-09-25 15:15:17,778 INFO c.k.i.p.StringValidator [main] validating string Dexter Morgan 800.00 USA Miami Street 5 777 A1 JUNIOR java,sql
+2017-09-25 15:15:17,779 INFO c.k.i.p.StringValidator [main] validating string Harold Finch 3000.00 USA New-York street 99 109 C2 TEAM_LEAD java,sql,javascript,react,angular,html,css
+2017-09-25 15:15:17,780 INFO c.k.i.p.StringValidator [main] validating string Sameen Shaw 700.00 USA New-York street 8 55 B2 JUNIOR html,css,javascript
+2017-09-25 15:15:17,784 INFO c.k.i.c.EmployeeCreator [main] creating developer
+2017-09-25 15:15:17,788 INFO c.k.i.c.EmployeeCreator [main] creating address
+2017-09-25 15:15:17,789 INFO c.k.i.c.EmployeeCreator [main] creating address
+2017-09-25 15:15:17,789 INFO c.k.i.c.EmployeeCreator [main] creating address
+2017-09-25 15:15:17,789 INFO c.k.i.c.EmployeeCreator [main] creating address
+2017-09-25 15:15:17,790 INFO c.k.i.c.EmployeeCreator [main] creating address
+2017-09-25 15:15:17,790 INFO c.k.i.c.EmployeeCreator [main] creating address
+2017-09-25 15:15:17,790 INFO c.k.i.c.EmployeeCreator [main] creating address
+2017-09-25 15:15:17,790 INFO c.k.i.c.EmployeeCreator [main] creating address
+2017-09-25 15:15:17,791 INFO c.k.i.c.EmployeeCreator [main] creating address
+2017-09-25 15:15:17,791 INFO c.k.i.c.EmployeeCreator [main] creating address
+2017-09-25 15:15:17,791 INFO c.k.i.c.EmployeeCreator [main] creating address
+2017-09-25 15:15:17,791 INFO c.k.i.c.EmployeeCreator [main] creating address
+2017-09-25 15:15:17,792 INFO c.k.i.a.EmployeeAction [main] calculate the cost of the development team
+2017-09-25 15:28:20,937 INFO c.k.i.r.DataReader [main] reader data from file
+2017-09-25 15:28:20,950 INFO c.k.i.p.StringParser [main] parsing strings
+2017-09-25 15:28:21,041 INFO c.k.i.p.StringValidator [main] validating string John Reese 1000.00 USA New-York street 7 5 B1 JUNIOR html,css,javascript
+2017-09-25 15:28:21,043 INFO c.k.i.p.StringValidator [main] validating string John Lock 1300.00 USA Boston Street 1 2 B1 MIDDLE java,scala,sql
+2017-09-25 15:28:21,044 INFO c.k.i.p.StringValidator [main] validating string Jack Shepard 1200.00 USA Los-Angeles Rodeo-Drive 5 22 C1 MIDDLE javascript,react,html,css
+2017-09-25 15:28:21,044 INFO c.k.i.p.StringValidator [main] validating string Dexter Morgan 800.00 USA Miami Street 5 777 A1 JUNIOR java,sql
+2017-09-25 15:28:21,045 INFO c.k.i.p.StringValidator [main] validating string Harold Finch 3000.00 USA New-York street 99 109 C2 TEAM_LEAD java,sql,javascript,react,angular,html,css
+2017-09-25 15:28:21,045 INFO c.k.i.p.StringValidator [main] validating string Sameen Shaw 700.00 USA New-York street 8 55 B2 JUNIOR html,css,javascript
+2017-09-25 15:28:21,050 INFO c.k.i.c.EmployeeCreator [main] creating developer
+2017-09-25 15:28:21,054 INFO c.k.i.c.EmployeeCreator [main] creating address
+2017-09-25 15:28:21,056 INFO c.k.i.c.EmployeeCreator [main] creating address
+2017-09-25 15:28:21,056 INFO c.k.i.c.EmployeeCreator [main] creating address
+2017-09-25 15:28:21,056 INFO c.k.i.c.EmployeeCreator [main] creating address
+2017-09-25 15:28:21,056 INFO c.k.i.c.EmployeeCreator [main] creating address
+2017-09-25 15:28:21,056 INFO c.k.i.c.EmployeeCreator [main] creating address
+2017-09-25 15:28:21,058 INFO c.k.i.a.EmployeeAction [main] calculate the cost of the development team
+2017-09-25 16:34:33,981 INFO c.k.i.r.DataReader [main] reader data from file
+2017-09-25 16:52:35,207 INFO c.k.i.r.DataReader [main] reader data from file
+2017-09-25 16:54:50,183 INFO c.k.i.r.DataReader [main] reader data from file
+2017-09-25 16:54:59,908 INFO c.k.i.r.DataReader [main] reader data from file
+2017-09-25 16:54:59,928 INFO c.k.i.r.DataReader [main] reader data from file
+2017-09-25 16:54:59,929 INFO c.k.i.p.StringParser [main] parsing strings
+2017-09-25 16:55:00,139 INFO c.k.i.p.StringValidator [main] validating string John Reese 1000.00 USA New-York street 7 5 B1 JUNIOR html,css,javascript
+2017-09-25 16:55:00,144 INFO c.k.i.p.StringValidator [main] validating string John Lock 1300.00 USA Boston Street 1 2 B1 MIDDLE java,scala,sql
+2017-09-25 16:55:00,145 INFO c.k.i.p.StringValidator [main] validating string Jack Shepard 1200.00 USA Los-Angeles Rodeo-Drive 5 22 C1 MIDDLE javascript,react,html,css
+2017-09-25 16:55:00,146 INFO c.k.i.p.StringValidator [main] validating string Dexter Morgan 800.00 USA Miami Street 5 777 A1 JUNIOR java,sql
+2017-09-25 16:55:00,147 INFO c.k.i.p.StringValidator [main] validating string ffdgdfgdfg
+2017-09-25 16:55:00,148 INFO c.k.i.p.StringValidator [main] validating string Harold Finch 3000.00 USA New-York street 99 109 C2 TEAM_LEAD java,sql,javascript,react,angular,html,css
+2017-09-25 16:55:00,150 INFO c.k.i.p.StringValidator [main] validating string 44.5.5 55 664
+2017-09-25 16:55:00,150 INFO c.k.i.p.StringValidator [main] validating string Sameen Shaw 700.00 USA New-York street 8 55 B2 JUNIOR html,css,javascript
+2017-09-25 16:55:00,151 INFO c.k.i.p.StringValidator [main] validating string #Hello &May 700.00 Belarus Minsk street 8 55 B2 html,css,javascript
+2017-09-25 16:55:51,541 INFO c.k.i.r.DataReader [main] reader data from file
+2017-09-25 16:55:51,554 INFO c.k.i.r.DataReader [main] reader data from file
+2017-09-25 16:55:51,558 INFO c.k.i.p.StringParser [main] parsing strings
+2017-09-25 16:55:51,725 INFO c.k.i.p.StringValidator [main] validating string John Reese 1000.00 USA New-York street 7 5 B1 JUNIOR html,css,javascript
+2017-09-25 16:55:51,735 INFO c.k.i.p.StringValidator [main] validating string John Lock 1300.00 USA Boston Street 1 2 B1 MIDDLE java,scala,sql
+2017-09-25 16:55:51,736 INFO c.k.i.p.StringValidator [main] validating string Jack Shepard 1200.00 USA Los-Angeles Rodeo-Drive 5 22 C1 MIDDLE javascript,react,html,css
+2017-09-25 16:55:51,738 INFO c.k.i.p.StringValidator [main] validating string Dexter Morgan 800.00 USA Miami Street 5 777 A1 JUNIOR java,sql
+2017-09-25 16:55:51,739 INFO c.k.i.p.StringValidator [main] validating string ffdgdfgdfg
+2017-09-25 16:55:51,741 INFO c.k.i.p.StringValidator [main] validating string Harold Finch 3000.00 USA New-York street 99 109 C2 TEAM_LEAD java,sql,javascript,react,angular,html,css
+2017-09-25 16:55:51,745 INFO c.k.i.p.StringValidator [main] validating string 44.5.5 55 664
+2017-09-25 16:55:51,750 INFO c.k.i.p.StringValidator [main] validating string Sameen Shaw 700.00 USA New-York street 8 55 B2 JUNIOR html,css,javascript
+2017-09-25 16:55:51,751 INFO c.k.i.p.StringValidator [main] validating string #Hello &May 700.00 Belarus Minsk street 8 55 B2 html,css,javascript
+2017-09-25 17:51:04,071 INFO c.k.i.r.DataReader [main] reader data from file
+2017-09-25 17:51:04,082 INFO c.k.i.r.DataReader [main] reader data from file
+2017-09-25 17:51:04,083 INFO c.k.i.p.StringParser [main] parsing strings
+2017-09-25 17:51:04,224 INFO c.k.i.p.StringValidator [main] validating string John Reese 1000.00 USA New-York street 7 5 B1 JUNIOR html,css,javascript
+2017-09-25 17:51:04,228 INFO c.k.i.p.StringValidator [main] validating string John Lock 1300.00 USA Boston Street 1 2 B1 MIDDLE java,scala,sql
+2017-09-25 17:51:04,230 INFO c.k.i.p.StringValidator [main] validating string Jack Shepard 1200.00 USA Los-Angeles Rodeo-Drive 5 22 C1 MIDDLE javascript,react,html,css
+2017-09-25 17:51:04,232 INFO c.k.i.p.StringValidator [main] validating string Dexter Morgan 800.00 USA Miami Street 5 777 A1 JUNIOR java,sql
+2017-09-25 17:51:04,233 INFO c.k.i.p.StringValidator [main] validating string ffdgdfgdfg
+2017-09-25 17:51:04,233 INFO c.k.i.p.StringValidator [main] validating string Harold Finch 3000.00 USA New-York street 99 109 C2 TEAM_LEAD java,sql,javascript,react,angular,html,css
+2017-09-25 17:51:04,234 INFO c.k.i.p.StringValidator [main] validating string 44.5.5 55 664
+2017-09-25 17:51:04,235 INFO c.k.i.p.StringValidator [main] validating string Sameen Shaw 700.00 USA New-York street 8 55 B2 JUNIOR html,css,javascript
+2017-09-25 17:51:04,236 INFO c.k.i.p.StringValidator [main] validating string #Hello &May 700.00 Belarus Minsk street 8 55 B2 html,css,javascript
+2017-09-25 17:51:11,746 INFO c.k.i.r.DataReader [main] reader data from file
+2017-09-25 17:51:11,761 INFO c.k.i.p.StringParser [main] parsing strings
+2017-09-25 17:51:11,852 INFO c.k.i.p.StringValidator [main] validating string John Reese 1000.00 USA New-York street 7 5 B1 JUNIOR html,css,javascript
+2017-09-25 17:51:11,855 INFO c.k.i.p.StringValidator [main] validating string John Lock 1300.00 USA Boston Street 1 2 B1 MIDDLE java,scala,sql
+2017-09-25 17:51:11,856 INFO c.k.i.p.StringValidator [main] validating string Jack Shepard 1200.00 USA Los-Angeles Rodeo-Drive 5 22 C1 MIDDLE javascript,react,html,css
+2017-09-25 17:51:11,857 INFO c.k.i.p.StringValidator [main] validating string Dexter Morgan 800.00 USA Miami Street 5 777 A1 JUNIOR java,sql
+2017-09-25 17:51:11,857 INFO c.k.i.p.StringValidator [main] validating string Harold Finch 3000.00 USA New-York street 99 109 C2 TEAM_LEAD java,sql,javascript,react,angular,html,css
+2017-09-25 17:51:11,858 INFO c.k.i.p.StringValidator [main] validating string Sameen Shaw 700.00 USA New-York street 8 55 B2 JUNIOR html,css,javascript
+2017-09-25 17:51:56,278 INFO c.k.i.r.DataReader [main] reader data from file
+2017-09-25 17:51:56,289 INFO c.k.i.p.StringParser [main] parsing strings
+2017-09-25 17:51:56,375 INFO c.k.i.p.StringValidator [main] validating string John Reese 1000.00 USA New-York street 7 5 B1 JUNIOR html,css,javascript
+2017-09-25 17:51:56,378 INFO c.k.i.p.StringValidator [main] validating string John Lock 1300.00 USA Boston Street 1 2 B1 MIDDLE java,scala,sql
+2017-09-25 17:51:56,378 INFO c.k.i.p.StringValidator [main] validating string Jack Shepard 1200.00 USA Los-Angeles Rodeo-Drive 5 22 C1 MIDDLE javascript,react,html,css
+2017-09-25 17:51:56,379 INFO c.k.i.p.StringValidator [main] validating string Dexter Morgan 800.00 USA Miami Street 5 777 A1 JUNIOR java,sql
+2017-09-25 17:51:56,380 INFO c.k.i.p.StringValidator [main] validating string Harold Finch 3000.00 USA New-York street 99 109 C2 TEAM_LEAD java,sql,javascript,react,angular,html,css
+2017-09-25 17:51:56,380 INFO c.k.i.p.StringValidator [main] validating string Sameen Shaw 700.00 USA New-York street 8 55 B2 JUNIOR html,css,javascript
+2017-09-25 17:52:38,806 INFO c.k.i.r.DataReader [main] reader data from file
+2017-09-25 17:52:38,818 INFO c.k.i.p.StringParser [main] parsing strings
+2017-09-25 17:52:38,930 INFO c.k.i.p.StringValidator [main] validating string John Reese 1000.00 USA New-York street 7 5 B1 JUNIOR html,css,javascript
+2017-09-25 17:52:38,933 INFO c.k.i.p.StringValidator [main] validating string John Lock 1300.00 USA Boston Street 1 2 B1 MIDDLE java,scala,sql
+2017-09-25 17:52:38,934 INFO c.k.i.p.StringValidator [main] validating string Jack Shepard 1200.00 USA Los-Angeles Rodeo-Drive 5 22 C1 MIDDLE javascript,react,html,css
+2017-09-25 17:52:38,934 INFO c.k.i.p.StringValidator [main] validating string Dexter Morgan 800.00 USA Miami Street 5 777 A1 JUNIOR java,sql
+2017-09-25 17:52:38,935 INFO c.k.i.p.StringValidator [main] validating string Harold Finch 3000.00 USA New-York street 99 109 C2 TEAM_LEAD java,sql,javascript,react,angular,html,css
+2017-09-25 17:52:38,936 INFO c.k.i.p.StringValidator [main] validating string Sameen Shaw 700.00 USA New-York street 8 55 B2 JUNIOR html,css,javascript
+2017-09-25 17:55:20,854 INFO c.k.i.r.DataReader [main] reader data from file
+2017-09-25 17:55:20,869 INFO c.k.i.p.StringParser [main] parsing strings
+2017-09-25 17:55:20,968 INFO c.k.i.p.StringValidator [main] validating string John Reese 1000.00 USA New-York street 7 5 B1 JUNIOR html,css,javascript
+2017-09-25 17:55:20,971 INFO c.k.i.p.StringValidator [main] validating string John Lock 1300.00 USA Boston Street 1 2 B1 MIDDLE java,scala,sql
+2017-09-25 17:55:20,971 INFO c.k.i.p.StringValidator [main] validating string Jack Shepard 1200.00 USA Los-Angeles Rodeo-Drive 5 22 C1 MIDDLE javascript,react,html,css
+2017-09-25 17:55:20,972 INFO c.k.i.p.StringValidator [main] validating string Dexter Morgan 800.00 USA Miami Street 5 777 A1 JUNIOR java,sql
+2017-09-25 17:55:20,973 INFO c.k.i.p.StringValidator [main] validating string Harold Finch 3000.00 USA New-York street 99 109 C2 TEAM_LEAD java,sql,javascript,react,angular,html,css
+2017-09-25 17:55:20,973 INFO c.k.i.p.StringValidator [main] validating string Sameen Shaw 700.00 USA New-York street 8 55 B2 JUNIOR html,css,javascript
+2017-09-25 17:56:07,990 INFO c.k.i.r.DataReader [main] reader data from file
+2017-09-25 17:56:08,004 INFO c.k.i.p.StringParser [main] parsing strings
+2017-09-25 17:56:08,094 INFO c.k.i.p.StringValidator [main] validating string John Reese 1000.00 USA New-York street 7 5 B1 JUNIOR html,css,javascript
+2017-09-25 17:56:08,097 INFO c.k.i.p.StringValidator [main] validating string John Lock 1300.00 USA Boston Street 1 2 B1 MIDDLE java,scala,sql
+2017-09-25 17:56:08,097 INFO c.k.i.p.StringValidator [main] validating string Jack Shepard 1200.00 USA Los-Angeles Rodeo-Drive 5 22 C1 MIDDLE javascript,react,html,css
+2017-09-25 17:56:08,098 INFO c.k.i.p.StringValidator [main] validating string Dexter Morgan 800.00 USA Miami Street 5 777 A1 JUNIOR java,sql
+2017-09-25 17:56:08,099 INFO c.k.i.p.StringValidator [main] validating string Harold Finch 3000.00 USA New-York street 99 109 C2 TEAM_LEAD java,sql,javascript,react,angular,html,css
+2017-09-25 17:56:08,099 INFO c.k.i.p.StringValidator [main] validating string Sameen Shaw 700.00 USA New-York street 8 55 B2 JUNIOR html,css,javascript
+2017-09-25 17:56:49,813 INFO c.k.i.r.DataReader [main] reader data from file
+2017-09-25 17:56:49,826 INFO c.k.i.p.StringParser [main] parsing strings
+2017-09-25 17:56:49,927 INFO c.k.i.p.StringValidator [main] validating string John Reese 1000.00 USA New-York street 7 5 B1 JUNIOR html,css,javascript
+2017-09-25 17:56:49,930 INFO c.k.i.p.StringValidator [main] validating string John Lock 1300.00 USA Boston Street 1 2 B1 MIDDLE java,scala,sql
+2017-09-25 17:56:49,931 INFO c.k.i.p.StringValidator [main] validating string Jack Shepard 1200.00 USA Los-Angeles Rodeo-Drive 5 22 C1 MIDDLE javascript,react,html,css
+2017-09-25 17:56:49,932 INFO c.k.i.p.StringValidator [main] validating string Dexter Morgan 800.00 USA Miami Street 5 777 A1 JUNIOR java,sql
+2017-09-25 17:56:49,933 INFO c.k.i.p.StringValidator [main] validating string Harold Finch 3000.00 USA New-York street 99 109 C2 TEAM_LEAD java,sql,javascript,react,angular,html,css
+2017-09-25 17:56:49,933 INFO c.k.i.p.StringValidator [main] validating string Sameen Shaw 700.00 USA New-York street 8 55 B2 JUNIOR html,css,javascript
+2017-09-25 18:09:04,060 INFO c.k.i.r.DataReader [main] reader data from file
+2017-09-25 18:09:04,073 INFO c.k.i.r.DataReader [main] reader data from file
+2017-09-25 18:09:04,076 INFO c.k.i.p.StringParser [main] parsing strings
+2017-09-25 18:09:04,263 INFO c.k.i.p.StringValidator [main] validating string John Reese 1000.00 USA New-York street 7 5 B1 JUNIOR html,css,javascript
+2017-09-25 18:09:04,272 INFO c.k.i.p.StringValidator [main] validating string John Lock 1300.00 USA Boston Street 1 2 B1 MIDDLE java,scala,sql
+2017-09-25 18:09:04,274 INFO c.k.i.p.StringValidator [main] validating string Jack Shepard 1200.00 USA Los-Angeles Rodeo-Drive 5 22 C1 MIDDLE javascript,react,html,css
+2017-09-25 18:09:04,277 INFO c.k.i.p.StringValidator [main] validating string Dexter Morgan 800.00 USA Miami Street 5 777 A1 JUNIOR java,sql
+2017-09-25 18:09:04,278 INFO c.k.i.p.StringValidator [main] validating string ffdgdfgdfg
+2017-09-25 18:09:04,279 INFO c.k.i.p.StringValidator [main] validating string Harold Finch 3000.00 USA New-York street 99 109 C2 TEAM_LEAD java,sql,javascript,react,angular,html,css
+2017-09-25 18:09:04,286 INFO c.k.i.p.StringValidator [main] validating string 44.5.5 55 664
+2017-09-25 18:09:04,287 INFO c.k.i.p.StringValidator [main] validating string Sameen Shaw 700.00 USA New-York street 8 55 B2 JUNIOR html,css,javascript
+2017-09-25 18:09:04,288 INFO c.k.i.p.StringValidator [main] validating string #Hello &May 700.00 Belarus Minsk street 8 55 B2 html,css,javascript
+2017-09-25 18:09:44,756 INFO c.k.i.r.DataReader [main] reader data from file
+2017-09-25 18:09:44,769 INFO c.k.i.r.DataReader [main] reader data from file
+2017-09-25 18:09:44,772 INFO c.k.i.p.StringParser [main] parsing strings
+2017-09-25 18:09:44,920 INFO c.k.i.p.StringValidator [main] validating string John Reese 1000.00 USA New-York street 7 5 B1 JUNIOR html,css,javascript
+2017-09-25 18:09:44,923 INFO c.k.i.p.StringValidator [main] validating string John Lock 1300.00 USA Boston Street 1 2 B1 MIDDLE java,scala,sql
+2017-09-25 18:09:44,924 INFO c.k.i.p.StringValidator [main] validating string Jack Shepard 1200.00 USA Los-Angeles Rodeo-Drive 5 22 C1 MIDDLE javascript,react,html,css
+2017-09-25 18:09:44,925 INFO c.k.i.p.StringValidator [main] validating string Dexter Morgan 800.00 USA Miami Street 5 777 A1 JUNIOR java,sql
+2017-09-25 18:09:44,926 INFO c.k.i.p.StringValidator [main] validating string ffdgdfgdfg
+2017-09-25 18:09:44,927 INFO c.k.i.p.StringValidator [main] validating string Harold Finch 3000.00 USA New-York street 99 109 C2 TEAM_LEAD java,sql,javascript,react,angular,html,css
+2017-09-25 18:09:44,928 INFO c.k.i.p.StringValidator [main] validating string 44.5.5 55 664
+2017-09-25 18:09:44,929 INFO c.k.i.p.StringValidator [main] validating string Sameen Shaw 700.00 USA New-York street 8 55 B2 JUNIOR html,css,javascript
+2017-09-25 18:09:44,930 INFO c.k.i.p.StringValidator [main] validating string #Hello &May 700.00 Belarus Minsk street 8 55 B2 html,css,javascript
+2017-09-25 18:38:05,754 INFO c.k.i.r.DataReader [main] reader data from file
+2017-09-25 18:38:05,768 INFO c.k.i.r.DataReader [main] reader data from file
+2017-09-25 18:38:05,772 INFO c.k.i.p.StringParser [main] parsing strings
+2017-09-25 18:38:05,911 INFO c.k.i.p.StringValidator [main] validating string John Reese 1000.00 USA New-York street 7 5 B1 JUNIOR html,css,javascript
+2017-09-25 18:38:05,916 INFO c.k.i.p.StringValidator [main] validating string John Lock 1300.00 USA Boston Street 1 2 B1 MIDDLE java,scala,sql
+2017-09-25 18:38:05,916 INFO c.k.i.p.StringValidator [main] validating string Jack Shepard 1200.00 USA Los-Angeles Rodeo-Drive 5 22 C1 MIDDLE javascript,react,html,css
+2017-09-25 18:38:05,917 INFO c.k.i.p.StringValidator [main] validating string Dexter Morgan 800.00 USA Miami Street 5 777 A1 JUNIOR java,sql
+2017-09-25 18:38:05,918 INFO c.k.i.p.StringValidator [main] validating string ffdgdfgdfg
+2017-09-25 18:38:05,919 INFO c.k.i.p.StringValidator [main] validating string Harold Finch 3000.00 USA New-York street 99 109 C2 TEAM_LEAD java,sql,javascript,react,angular,html,css
+2017-09-25 18:38:05,920 INFO c.k.i.p.StringValidator [main] validating string 44.5.5 55 664
+2017-09-25 18:38:05,921 INFO c.k.i.p.StringValidator [main] validating string Sameen Shaw 700.00 USA New-York street 8 55 B2 JUNIOR html,css,javascript
+2017-09-25 18:38:05,921 INFO c.k.i.p.StringValidator [main] validating string #Hello &May 700.00 Belarus Minsk street 8 55 B2 html,css,javascript
+2017-09-25 18:40:17,036 INFO c.k.i.r.DataReader [main] reader data from file
+2017-09-25 18:40:17,053 INFO c.k.i.r.DataReader [main] reader data from file
+2017-09-25 18:40:17,056 INFO c.k.i.p.StringParser [main] parsing strings
+2017-09-25 18:40:17,225 INFO c.k.i.p.StringValidator [main] validating string John Reese 1000.00 USA New-York street 7 5 B1 JUNIOR html,css,javascript
+2017-09-25 18:40:17,228 INFO c.k.i.p.StringValidator [main] validating string John Lock 1300.00 USA Boston Street 1 2 B1 MIDDLE java,scala,sql
+2017-09-25 18:40:17,229 INFO c.k.i.p.StringValidator [main] validating string Jack Shepard 1200.00 USA Los-Angeles Rodeo-Drive 5 22 C1 MIDDLE javascript,react,html,css
+2017-09-25 18:40:17,230 INFO c.k.i.p.StringValidator [main] validating string Dexter Morgan 800.00 USA Miami Street 5 777 A1 JUNIOR java,sql
+2017-09-25 18:40:17,231 INFO c.k.i.p.StringValidator [main] validating string ffdgdfgdfg
+2017-09-25 18:40:17,231 INFO c.k.i.p.StringValidator [main] validating string Harold Finch 3000.00 USA New-York street 99 109 C2 TEAM_LEAD java,sql,javascript,react,angular,html,css
+2017-09-25 18:40:17,232 INFO c.k.i.p.StringValidator [main] validating string 44.5.5 55 664
+2017-09-25 18:40:17,233 INFO c.k.i.p.StringValidator [main] validating string Sameen Shaw 700.00 USA New-York street 8 55 B2 JUNIOR html,css,javascript
+2017-09-25 18:40:17,234 INFO c.k.i.p.StringValidator [main] validating string #Hello &May 700.00 Belarus Minsk street 8 55 B2 html,css,javascript
+2017-09-25 18:41:29,593 INFO c.k.i.r.DataReader [main] reader data from file
+2017-09-25 18:41:29,604 INFO c.k.i.r.DataReader [main] reader data from file
+2017-09-25 18:41:29,606 INFO c.k.i.p.StringParser [main] parsing strings
+2017-09-25 18:41:29,741 INFO c.k.i.p.StringValidator [main] validating string John Reese 1000.00 USA New-York street 7 5 B1 JUNIOR html,css,javascript
+2017-09-25 18:41:29,745 INFO c.k.i.p.StringValidator [main] validating string John Lock 1300.00 USA Boston Street 1 2 B1 MIDDLE java,scala,sql
+2017-09-25 18:41:29,746 INFO c.k.i.p.StringValidator [main] validating string Jack Shepard 1200.00 USA Los-Angeles Rodeo-Drive 5 22 C1 MIDDLE javascript,react,html,css
+2017-09-25 18:41:29,747 INFO c.k.i.p.StringValidator [main] validating string Dexter Morgan 800.00 USA Miami Street 5 777 A1 JUNIOR java,sql
+2017-09-25 18:41:29,747 INFO c.k.i.p.StringValidator [main] validating string ffdgdfgdfg
+2017-09-25 18:41:29,748 INFO c.k.i.p.StringValidator [main] validating string Harold Finch 3000.00 USA New-York street 99 109 C2 TEAM_LEAD java,sql,javascript,react,angular,html,css
+2017-09-25 18:41:29,749 INFO c.k.i.p.StringValidator [main] validating string 44.5.5 55 664
+2017-09-25 18:41:29,749 INFO c.k.i.p.StringValidator [main] validating string Sameen Shaw 700.00 USA New-York street 8 55 B2 JUNIOR html,css,javascript
+2017-09-25 18:41:29,750 INFO c.k.i.p.StringValidator [main] validating string #Hello &May 700.00 Belarus Minsk street 8 55 B2 html,css,javascript
+2017-09-25 18:42:29,069 INFO c.k.i.r.DataReader [main] reader data from file
+2017-09-25 18:42:29,082 INFO c.k.i.r.DataReader [main] reader data from file
+2017-09-25 18:42:29,084 INFO c.k.i.p.StringParser [main] parsing strings
+2017-09-25 18:42:29,213 INFO c.k.i.p.StringValidator [main] validating string John Reese 1000.00 USA New-York street 7 5 B1 JUNIOR html,css,javascript
+2017-09-25 18:42:29,217 INFO c.k.i.p.StringValidator [main] validating string John Lock 1300.00 USA Boston Street 1 2 B1 MIDDLE java,scala,sql
+2017-09-25 18:42:29,217 INFO c.k.i.p.StringValidator [main] validating string Jack Shepard 1200.00 USA Los-Angeles Rodeo-Drive 5 22 C1 MIDDLE javascript,react,html,css
+2017-09-25 18:42:29,218 INFO c.k.i.p.StringValidator [main] validating string Dexter Morgan 800.00 USA Miami Street 5 777 A1 JUNIOR java,sql
+2017-09-25 18:42:29,219 INFO c.k.i.p.StringValidator [main] validating string ffdgdfgdfg
+2017-09-25 18:42:29,219 INFO c.k.i.p.StringValidator [main] validating string Harold Finch 3000.00 USA New-York street 99 109 C2 TEAM_LEAD java,sql,javascript,react,angular,html,css
+2017-09-25 18:42:29,221 INFO c.k.i.p.StringValidator [main] validating string 44.5.5 55 664
+2017-09-25 18:42:29,222 INFO c.k.i.p.StringValidator [main] validating string Sameen Shaw 700.00 USA New-York street 8 55 B2 JUNIOR html,css,javascript
+2017-09-25 18:42:29,222 INFO c.k.i.p.StringValidator [main] validating string #Hello &May 700.00 Belarus Minsk street 8 55 B2 html,css,javascript
+2017-09-25 18:42:41,136 INFO c.k.i.r.DataReader [main] reader data from file
+2017-09-25 18:42:41,148 INFO c.k.i.r.DataReader [main] reader data from file
+2017-09-25 18:42:41,151 INFO c.k.i.p.StringParser [main] parsing strings
+2017-09-25 18:42:41,301 INFO c.k.i.p.StringValidator [main] validating string John Reese 1000.00 USA New-York street 7 5 B1 JUNIOR html,css,javascript
+2017-09-25 18:42:41,307 INFO c.k.i.p.StringValidator [main] validating string John Lock 1300.00 USA Boston Street 1 2 B1 MIDDLE java,scala,sql
+2017-09-25 18:42:41,308 INFO c.k.i.p.StringValidator [main] validating string Jack Shepard 1200.00 USA Los-Angeles Rodeo-Drive 5 22 C1 MIDDLE javascript,react,html,css
+2017-09-25 18:42:41,309 INFO c.k.i.p.StringValidator [main] validating string Dexter Morgan 800.00 USA Miami Street 5 777 A1 JUNIOR java,sql
+2017-09-25 18:42:41,309 INFO c.k.i.p.StringValidator [main] validating string ffdgdfgdfg
+2017-09-25 18:42:41,310 INFO c.k.i.p.StringValidator [main] validating string Harold Finch 3000.00 USA New-York street 99 109 C2 TEAM_LEAD java,sql,javascript,react,angular,html,css
+2017-09-25 18:42:41,310 INFO c.k.i.p.StringValidator [main] validating string 44.5.5 55 664
+2017-09-25 18:42:41,311 INFO c.k.i.p.StringValidator [main] validating string Sameen Shaw 700.00 USA New-York street 8 55 B2 JUNIOR html,css,javascript
+2017-09-25 18:42:41,311 INFO c.k.i.p.StringValidator [main] validating string #Hello &May 700.00 Belarus Minsk street 8 55 B2 html,css,javascript
+2017-09-25 18:48:42,824 INFO c.k.i.r.DataReader [main] reader data from file
+2017-09-25 18:48:42,840 INFO c.k.i.p.StringParser [main] parsing strings
+2017-09-25 18:48:42,939 INFO c.k.i.p.StringValidator [main] validating string John Reese 1000.00 USA New-York street 7 5 B1 JUNIOR html,css,javascript
+2017-09-25 18:48:42,942 INFO c.k.i.p.StringValidator [main] validating string John Lock 1300.00 USA Boston Street 1 2 B1 MIDDLE java,scala,sql
+2017-09-25 18:48:42,943 INFO c.k.i.p.StringValidator [main] validating string Jack Shepard 1200.00 USA Los-Angeles Rodeo-Drive 5 22 C1 MIDDLE javascript,react,html,css
+2017-09-25 18:48:42,944 INFO c.k.i.p.StringValidator [main] validating string Dexter Morgan 800.00 USA Miami Street 5 777 A1 JUNIOR java,sql
+2017-09-25 18:48:42,944 INFO c.k.i.p.StringValidator [main] validating string Harold Finch 3000.00 USA New-York street 99 109 C2 TEAM_LEAD java,sql,javascript,react,angular,html,css
+2017-09-25 18:48:42,945 INFO c.k.i.p.StringValidator [main] validating string Sameen Shaw 700.00 USA New-York street 8 55 B2 JUNIOR html,css,javascript
+2017-09-25 21:15:24,030 INFO c.k.i.r.DataReader [main] reader data from file
+2017-09-25 21:15:24,044 INFO c.k.i.p.StringParser [main] parsing strings
+2017-09-25 21:15:24,140 INFO c.k.i.p.StringValidator [main] validating string John Reese 1000.00 USA New-York street 7 5 JUNIOR html,css,javascript
+2017-09-25 21:15:24,143 INFO c.k.i.p.StringValidator [main] validating string John Lock 1300.00 USA Boston Street 1 2 B1 MIDDLE java,scala,sql
+2017-09-25 21:15:24,144 INFO c.k.i.p.StringValidator [main] validating string Jack Shepard 1200.00 USA Los-Angeles Rodeo-Drive 5 22 C1 MIDDLE javascript,react,html,css
+2017-09-25 21:15:24,145 INFO c.k.i.p.StringValidator [main] validating string Dexter Morgan 800.00 USA Miami Street 5 777 A1 JUNIOR java,sql
+2017-09-25 21:15:24,145 INFO c.k.i.p.StringValidator [main] validating string Harold Finch 3000.00 USA New-York street 99 109 C2 TEAM_LEAD java,sql,javascript,react,angular,html,css
+2017-09-25 21:15:24,146 INFO c.k.i.p.StringValidator [main] validating string Sameen Shaw 700.00 USA New-York street 8 55 B2 JUNIOR html,css,javascript
+2017-09-25 21:15:24,150 INFO c.k.i.c.EmployeeCreator [main] creating developer
+2017-09-25 21:15:24,153 INFO c.k.i.c.EmployeeCreator [main] creating address
+2017-09-25 21:15:24,154 INFO c.k.i.c.EmployeeCreator [main] creating address
+2017-09-25 21:15:24,155 INFO c.k.i.c.EmployeeCreator [main] creating address
+2017-09-25 21:15:24,155 INFO c.k.i.c.EmployeeCreator [main] creating address
+2017-09-25 21:15:24,155 INFO c.k.i.c.EmployeeCreator [main] creating address
+2017-09-25 21:16:50,337 INFO c.k.i.r.DataReader [main] reader data from file
+2017-09-25 21:16:50,350 INFO c.k.i.p.StringParser [main] parsing strings
+2017-09-25 21:16:50,441 INFO c.k.i.p.StringValidator [main] validating string John Reese 1000.00 USA New-York street 7 5 JUNIOR html,css,javascript
+2017-09-25 21:16:50,444 INFO c.k.i.p.StringValidator [main] validating string John Lock 1300.00 USA Boston Street 1 2 B1 MIDDLE java,scala,sql
+2017-09-25 21:16:50,445 INFO c.k.i.p.StringValidator [main] validating string Jack Shepard 1200.00 USA Los-Angeles Rodeo-Drive 5 22 C1 MIDDLE javascript,react,html,css
+2017-09-25 21:16:50,446 INFO c.k.i.p.StringValidator [main] validating string Dexter Morgan 800.00 USA Miami Street 5 777 A1 JUNIOR java,sql
+2017-09-25 21:16:50,447 INFO c.k.i.p.StringValidator [main] validating string Harold Finch 3000.00 USA New-York street 99 109 C2 TEAM_LEAD java,sql,javascript,react,angular,html,css
+2017-09-25 21:16:50,447 INFO c.k.i.p.StringValidator [main] validating string Sameen Shaw 700.00 USA New-York street 8 55 B2 JUNIOR html,css,javascript
+2017-09-25 21:16:50,452 INFO c.k.i.c.EmployeeCreator [main] creating developer
+2017-09-25 21:51:25,109 INFO c.k.i.r.DataReader [main] reader data from file
+2017-09-25 21:51:25,123 INFO c.k.i.p.StringParser [main] parsing strings
+2017-09-25 21:51:25,215 INFO c.k.i.p.StringValidator [main] validating string John Reese 1000.00 USA New-York street 7 5 B1 JUNIOR html,css,javascript
+2017-09-25 21:51:25,218 INFO c.k.i.p.StringValidator [main] validating string John Lock 1300.00 USA Boston Street 1 2 B1 MIDDLE java,scala,sql
+2017-09-25 21:51:25,219 INFO c.k.i.p.StringValidator [main] validating string Jack Shepard 1200.00 USA Los-Angeles Rodeo-Drive 5 22 C1 MIDDLE javascript,react,html,css
+2017-09-25 21:51:25,220 INFO c.k.i.p.StringValidator [main] validating string Dexter Morgan 800.00 USA Miami Street 5 777 A1 JUNIOR java,sql
+2017-09-25 21:51:25,220 INFO c.k.i.p.StringValidator [main] validating string Harold Finch 3000.00 USA New-York street 99 109 C2 TEAM_LEAD java,sql,javascript,react,angular,html,css
+2017-09-25 21:51:25,221 INFO c.k.i.p.StringValidator [main] validating string Sameen Shaw 700.00 USA New-York street 8 55 B2 JUNIOR html,css,javascript
+2017-09-25 21:51:25,227 INFO c.k.i.c.EmployeeCreator [main] creating developer
+2017-09-25 21:51:25,230 INFO c.k.i.c.EmployeeCreator [main] creating address
+2017-09-25 21:51:25,231 INFO c.k.i.c.EmployeeCreator [main] creating address
+2017-09-25 21:51:25,232 INFO c.k.i.c.EmployeeCreator [main] creating address
+2017-09-25 21:51:25,232 INFO c.k.i.c.EmployeeCreator [main] creating address
+2017-09-25 21:51:25,232 INFO c.k.i.c.EmployeeCreator [main] creating address
+2017-09-25 21:51:25,232 INFO c.k.i.c.EmployeeCreator [main] creating address
+2017-09-25 21:59:25,300 INFO c.k.i.r.DataReader [main] reader data from file
+2017-09-25 21:59:25,313 INFO c.k.i.p.StringParser [main] parsing strings
+2017-09-25 21:59:25,409 INFO c.k.i.p.StringValidator [main] validating string John Reese 1000.00 USA New-York street 7 5 5 true
+2017-09-25 21:59:25,412 INFO c.k.i.p.StringValidator [main] validating string John Lock 1300.00 USA Boston Street 1 2 6 false
+2017-09-25 21:59:25,415 INFO c.k.i.c.EmployeeCreator [main] creating security guard
+2017-09-25 21:59:25,417 INFO c.k.i.c.EmployeeCreator [main] creating address
+2017-09-25 21:59:25,418 INFO c.k.i.c.EmployeeCreator [main] creating address

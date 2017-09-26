@@ -1,0 +1,2 @@
+John Reese 1000.00 USA New-York street 7 5 5 true
+John Lock 1300.00 USA Boston Street 1 2 6 false
